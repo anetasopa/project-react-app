@@ -1,0 +1,8 @@
+.image-wrapper {
+  height: 250px;
+ }
+ 
+img.image-content {
+  height: 100% !important;
+  object-fit: cover;
+}
